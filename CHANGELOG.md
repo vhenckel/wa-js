@@ -1,3 +1,3 @@
-## 4.0.0 (2026-04-29)
+## 4.1.0 (2026-05-04)
 
-* feat: add BackendEventBus and register backend event handling (#3416) ([75ca156033d428784e8bff868e1cead3ae18a8c5](https://github.com/wppconnect-team/wa-js/commit/75ca156033d428784e8bff868e1cead3ae18a8c5)), closes [#3416](https://github.com/wppconnect-team/wa-js/issues/3416)
+* fix: remove SYNCING mode from isReadyMode check in register function (#3417) ([311b4950cd30bd44af61a34d57bc540e82efec9c](https://github.com/wppconnect-team/wa-js/commit/311b4950cd30bd44af61a34d57bc540e82efec9c)), closes [#3417](https://github.com/wppconnect-team/wa-js/issues/3417)
